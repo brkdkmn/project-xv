@@ -1,1 +1,3 @@
-guzel paylasim
+
+yapilacaklar
+>>>>>>> developer-c8129-burak
